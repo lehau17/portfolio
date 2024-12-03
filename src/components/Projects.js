@@ -74,15 +74,6 @@ export const Projects = () => {
                       <Nav.Item>
                         <Nav.Link eventKey="third">Back-end</Nav.Link>
                       </Nav.Item>
-                      <Nav.Item>
-                        <Nav.Link eventKey="third">React-Native</Nav.Link>
-                      </Nav.Item>
-                      <Nav.Item>
-                        <Nav.Link eventKey="four">Docker</Nav.Link>
-                      </Nav.Item>
-                      <Nav.Item>
-                        <Nav.Link eventKey="five">Linux</Nav.Link>
-                      </Nav.Item>
                     </Nav>
                     <Tab.Content
                       id="slideInUp"

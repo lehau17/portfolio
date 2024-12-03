@@ -68,6 +68,15 @@ export const Skills = () => {
                   <img src={meter1} alt="Image" />
                   <h5>NextJS</h5>
                 </div>
+
+                <div className="item">
+                  <img src={meter1} alt="Image" />
+                  <h5>Docker</h5>
+                </div>
+                <div className="item">
+                  <img src={meter1} alt="Image" />
+                  <h5>Moblie</h5>
+                </div>
               </Carousel>
             </div>
           </div>
